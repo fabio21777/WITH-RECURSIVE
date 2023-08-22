@@ -72,3 +72,5 @@ WITH RECURSIVE subordinates AS (
 	*
 FROM
 	subordinates;
+
+-- referencia https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-recursive-query/
